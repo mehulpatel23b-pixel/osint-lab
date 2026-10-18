@@ -26,6 +26,11 @@ A structured, hands-on path from zero to building your own OSINT tooling.
 
 Start at module 01. Track your progress in [progress.md](progress.md).
 
+## Companion tools
+
+The lab bundles working, tested code so you learn by reading and extending, not just reading:
+- [tools/repo-radar/](tools/repo-radar/) — viral GitHub repo finder, the worked example module 12's capstone is measured against
+
 Modules 08–12 are the **advanced tier** — they assume you've finished the roadmap basics.
 
 ## Ground rules

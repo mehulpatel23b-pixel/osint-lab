@@ -24,3 +24,6 @@
 
 ## Note: install on Termux/Kali
 Most of these install with `apt`, `pip`, or `go install`.
+
+## Bundled in this repo
+- [repo-radar](tools/repo-radar/) — our own viral-repo finder; see its [README](tools/repo-radar/README.md)
