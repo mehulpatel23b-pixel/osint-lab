@@ -18,8 +18,15 @@ A structured, hands-on path from zero to building your own OSINT tooling.
 | 5 | [People & Usernames](modules/05-people-usernames/) | username enum, verification | 1 week |
 | 6 | [Infrastructure](modules/06-infrastructure/) | Shodan, Censys, exposed services | 2 weeks |
 | 7 | [Build Your Own Tools](modules/07-automation-python/) | Python OSINT tooling | ongoing |
+| 8 | [GEOINT & Imagery](modules/08-geoint-imagery/) | photo verification, sun angles, satellite | 2 weeks |
+| 9 | [Network Deep Dive](modules/09-network-deep-dive/) | passive DNS, ASN, IP history | 1 week |
+| 10 | [Corporate & Financial](modules/10-corporate-financial/) | registries, GSTIN, lead profiles | 1 week |
+| 11 | [Relationship Mapping](modules/11-relationship-mapping/) | graph analysis, connectors | 2 weeks |
+| 12 | [Capstone: Ship a Tool](modules/12-ship-a-tool/) | packaging, CI, publishing | ongoing |
 
 Start at module 01. Track your progress in [progress.md](progress.md).
+
+Modules 08–12 are the **advanced tier** — they assume you've finished the roadmap basics.
 
 ## Ground rules
 

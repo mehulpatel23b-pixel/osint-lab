@@ -34,3 +34,27 @@ Copy this into your fork and check things off.
 - [ ] Subdomain watcher script
 - [ ] Metadata scrubber tool
 - [ ] Published one tool with docs
+
+## Phase 8 — GEOINT & Imagery
+- [ ] Geolocated one of my own photos from visuals only
+- [ ] Sun-angle verification practiced
+- [ ] 5 GeoGuessr rounds with written reasoning
+
+## Phase 9 — Network Deep Dive
+- [ ] IP history of my domain mapped
+- [ ] ASN of my host identified
+- [ ] Infrastructure timeline written
+
+## Phase 10 — Corporate & Financial
+- [ ] GSTIN verified for a local business
+- [ ] OpenCorporates / MCA lookup done
+- [ ] 1-page lead profile assembled
+
+## Phase 11 — Relationship Mapping
+- [ ] Contributor graph built with networkx
+- [ ] Key connectors identified in a project's network
+
+## Phase 12 — Capstone
+- [ ] Tool repo published with tests + CI
+- [ ] README with badges, install, legal scope
+- [ ] CI passing on fresh clone
